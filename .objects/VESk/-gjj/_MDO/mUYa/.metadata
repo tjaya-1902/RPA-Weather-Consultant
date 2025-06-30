@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Place 1",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "mUYatNFx4U6ameEJb8o4XA",
+  "Reference": "ZCMMHT-glEqIxpGWRH_44A/mUYatNFx4U6ameEJb8o4XA",
+  "ParentRef": "ZCMMHT-glEqIxpGWRH_44A/_MDOzrGJaka16RE1GxLFEQ",
+  "Created": "2025-06-22T21:28:29.162749Z",
+  "Updated": "2025-06-22T21:28:29.162749Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

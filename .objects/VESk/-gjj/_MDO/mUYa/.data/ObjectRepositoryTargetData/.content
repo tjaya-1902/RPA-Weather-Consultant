@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="muP9iWRCzE2V-XBndr-gXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="4a9c1ca5-9d9a-4fc9-a261-af7eb8262c2a" DesignTimeRectangle="481, 1017, 263, 40" ElementType="Text" FullSelectorArgument="&lt;webctrl class='OSrXXb' tag='SPAN' /&gt;" Guid="c8e15cb1-65d8-4440-9e8b-15e883cdd1c4" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Best parks in Milan - Google Search' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="a304d38e828320edfe07258adbc189fd.png" xmlns="">0FkO2wknePkObj5mlKhAJMw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

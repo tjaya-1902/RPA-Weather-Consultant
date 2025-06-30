@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="e8JjxErLQkW1kyQN5gA0aQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="7beb2ccb-3cbc-41bc-a9e0-ace5ad15d29c" DesignTimeRectangle="627, 1377, 455, 48" ElementType="Text" FuzzyAccuracy="0.94" FuzzySelectorArgument="&lt;webctrl tag='DIV' type='' class='FZPZX q8U8x tNxQIb PZPZlf' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="49883b28-4109-4f4c-b0cd-a7615936f93d" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Best Museum in Tokyo - Google Search' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="475, 1355, 711, 136" ElementType="Button" FullSelectorArgument="&lt;webctrl aria-role='button' class='RpqMib' tag='DIV' /&gt;" Guid="21a13ea1-0233-4e34-b3ac-82de55b29299" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="565943c8902245684d0f11b08d647064.png" xmlns="">0-G6Hz7YuwkyJuE5XW7Mf7w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

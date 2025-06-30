@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eKf4AkAvpkyo3lNlA6wZYQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="bca1c523-a636-44eb-931b-38c5e778b2a9" DesignTimeRectangle="621, 849, 103, 120" ElementType="Text" FullSelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' /&gt;" Guid="15ed5a64-5105-47cb-8e4e-d02dd11bea06" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Weather in Berlin in Celcius - Google Suche' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="776aa12cda205902b7a2bb82b9382aa1.png" xmlns="">0WvFRF6zQFkKXLHzATRHLDw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

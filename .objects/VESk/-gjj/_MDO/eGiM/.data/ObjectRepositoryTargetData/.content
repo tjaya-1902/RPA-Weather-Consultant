@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5vi0JrPLd0mTJBrdn_IMCg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="ee1d12db-13ad-49e1-a529-140ad67dd14a" CvType="AnyWordGroup" DesignTimeRectangle="481, 1036, 263, 40" ElementType="Text" FullSelectorArgument="&lt;webctrl class='OSrXXb' tag='SPAN' /&gt;" Guid="7ea73bde-b341-4728-89ed-0f79ffe95912" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Best parks in Milan - Google Search' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ee1d12db-13ad-49e1-a529-140ad67dd14a" CvTextArea="481, 517, 164, 50" CvTextArgument="Places" CvType="Text" DesignTimeRectangle="481, 508, 162, 72" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Places' parentid='rso' tag='DIV' /&gt;" Guid="fdd30caa-d6b7-4e63-867c-120207276784" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d1006476265189aa1271e80189415394.png" xmlns="">0AAwg6436MEmbtbXWbvnkMg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
